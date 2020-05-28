@@ -1,0 +1,14 @@
+.enterpin {
+    background-color: #cabf28;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+
+.inputPIN {
+    height: 50px;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+}

@@ -1,0 +1,51 @@
+.menu {
+    background-color: #46178f;
+    height: 50px;
+
+}
+
+.button-menu {
+    color: white;
+}
+
+.button-menu:hover {
+    color: rgb(218, 188, 18);
+}
+
+.button-menu-add {
+    margin-left: 50%;
+}
+
+.userDropdown {
+    float: right;
+    margin-right: 10%;
+}
+
+.storeQuiz {
+    padding: 10px 20px;
+    display: flex;
+    border: 1px solid #678dcf;
+    border-radius: 10px;
+}
+
+.img-storeQuiz {
+    height: 200px;
+    width: 200px;
+    margin-left: 0;
+}
+
+.box-store {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu-button {
+    align-items: flex-end;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.buttonQuiz{
+    width: 120px;
+}
